@@ -1,0 +1,30 @@
+{
+  "name": "mu-jquery-widget-utils",
+  "version": "0.0.1",
+  "description": "mu-jquery-widget utils",
+  "main": "",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu-lib/mu-jquery-widget-utils.git"
+  },
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mu-lib/mu-jquery-widget/issues-utils"
+  },
+  "homepage": "https://github.com/mu-lib/mu-jquery-widget-utils#readme",
+  "dependencies": {
+    "mu-jquery-widget": "^16.0.0"
+  },
+  "peerDependencies": {
+    "jquery": "^3.0.0"
+  },
+  "devDependencies": {
+    "standard-version": "^4.0.0",
+    "qunitjs": "^2.3.2",
+    "jquery": "^3.2.1"
+  }
+}

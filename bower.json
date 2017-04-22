@@ -1,0 +1,23 @@
+{
+  "name": "mu-jquery-widget-utils",
+  "authors": [
+    "Mikael Karon <mikael@karon.se>"
+  ],
+  "description": "mu-jquery-widget utils",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "mu-jquery-widget": "^16.0.0"
+  },
+  "devDependencies": {
+    "qunit": "^2.3.2",
+    "jquery": "^3.2.1"
+  }
+}
